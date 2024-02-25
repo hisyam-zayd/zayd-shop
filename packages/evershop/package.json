@@ -92,7 +92,7 @@
     "npm": "^8.18.0",
     "ora": "^5.4.1",
     "pg": "^8.11.3",
-    "postcss": "^8.4.18",
+    "postcss": "^8.4.31",
     "promise.allsettled": "^1.0.4",
     "prop-types": "^15.8.1",
     "pubsub-js": "^1.9.3",
